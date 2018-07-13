@@ -1,0 +1,8 @@
+[package]
+name = "my_test_program"
+version = "0.1.0"
+authors = ["Jonathan Pallant <github@thejpster.org.uk>"]
+
+[dependencies]
+sensehat = "0.5"
+
